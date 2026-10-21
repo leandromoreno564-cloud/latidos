@@ -1,4 +1,4 @@
 a+1
 b+3
-suma =a+b
+suma=a+b
 print(suma)
